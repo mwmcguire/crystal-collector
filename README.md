@@ -1,2 +1,2 @@
-# unit-4-game
-Coding Bootcamp - JQuery Assignment
+# Crystal Collector
+Coding Bootcamp - Week 4: JQuery Assignment
